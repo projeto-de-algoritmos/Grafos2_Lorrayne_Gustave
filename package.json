@@ -1,0 +1,23 @@
+{
+  "name": "grafos2_lorrayne_gustave",
+  "version": "1.0.0",
+  "description": "**Número da Lista**: 3<br> **Conteúdo da Disciplina**: Grafos 2<br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projeto-de-algoritmos/Grafos2_Lorrayne_Gustave.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projeto-de-algoritmos/Grafos2_Lorrayne_Gustave/issues"
+  },
+  "homepage": "https://github.com/projeto-de-algoritmos/Grafos2_Lorrayne_Gustave#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
