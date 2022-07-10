@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(car.jpg);
+  background-size: cover;
+  width: 100%;
+  background-repeat: no-repeat;
+
+}
+.cover {
+  height: 100px;
+}
+.cover-title {
+  color: black;
+  font-weight: 600;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 5%;
+}
+.cover-text {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: black;
+  font-weight: 500;
+  font-size: 30px;
+}
+.graph-button {
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  border: solid 2px black;
+  border-radius: 10px !important;
+  padding: 15px 25px 15px 25px;
+}
+.graph-button:hover {
+  background-color: white;
+  color: black;
+  font-weight: 600;
+  border: solid 2px black;
+  border-radius: 10px !important;
+  padding: 15px 25px 15px 25px;
+}
+.action {
+  margin: 0 auto;
+  background-image: url(brazil.jpg);
+  background-size: cover;
+  width: 35%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: 500;
+}
+.action-map{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: 500;
+}
+.action-path{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: 500;
+  padding: 3% 0;
+}
+.mrg-right-10 {
+  margin-right: 10px;
+}
+.end{
+  padding: 0% 31%;
+}
+.color-font{
+  color:white
+}
+.price-text{
+  color: grey;
+}
+#form{
+  background-color: black;
+  border-radius: 25px;
+  padding: 1px;
+  width: 95%;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
