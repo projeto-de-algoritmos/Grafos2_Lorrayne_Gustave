@@ -38,7 +38,7 @@ const djikstraAlgorithm = (graph, startNode, endNode) => {
     }
     if (prices[endNode] === Infinity) return "Não é possível formar caminho até o destino final"
     else {
-        return prices[endNode]
+        return "R$" + prices[endNode] + ".00"
     }
 
 }

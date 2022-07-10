@@ -16,7 +16,7 @@ const printGraph = (graph) => {
     let conc = "";
 
     for (let j of nodes) {
-      conc += "Trajeto: " + i + " -----------> " + j.node + " [Custo: R$ " + j.price + ".00 ]\n";;
+      conc += "Trajeto: " + i + " -----------> " + j.node + " [Custo: R$ " + j.price + ".00]\n";;
     }
     finalGraph += conc;
   }
