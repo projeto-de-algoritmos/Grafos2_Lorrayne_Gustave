@@ -21,7 +21,6 @@ O projeto possui o objetivo de apresentar de forma visual a implementação do a
 ### 2. Caminho mais barato
 ![Search](./public/img/search.png)
 
-## Apresentação
 
 ## Instalação
 
@@ -44,3 +43,7 @@ yarn install
 yarn start
 ```
 O projeto estará rodando na porta ```localhost:3000```
+
+## Apresentação
+
+[Link da apresentação](https://youtu.be/h_rSjBCdKHc)
